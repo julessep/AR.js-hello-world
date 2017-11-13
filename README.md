@@ -1,6 +1,6 @@
-# Hello World with Ar.js
+# Hello World with AR.js
 
-[Ar.js](https://github.com/jeromeetienne/AR.js) 
+[AR.js](https://github.com/jeromeetienne/AR.js) 
 
 
 
